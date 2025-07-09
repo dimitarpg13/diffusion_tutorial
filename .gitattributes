@@ -3,3 +3,4 @@ articles/Deep_Unsupervised_Learning_using_Nonequilibrium_Thermodynamics_Sohl-Dic
 articles/Denoising_Diffusion_Probabilistic_Models_Ho_2020.pdf filter=lfs diff=lfs merge=lfs -text
 articles/Maximum_Likelihood_Training_of_Score-Based_Diffusion_Models_Song_2021.pdf filter=lfs diff=lfs merge=lfs -text
 articles/Score-Based_Generative_Modeling_Through_Stochastic_Differential_Equations_Song_2021.pdf filter=lfs diff=lfs merge=lfs -text
+articles/Step-by-Step_Diffusion-An_Elementary_Tutorial_Nakkiran_2024.pdf filter=lfs diff=lfs merge=lfs -text
